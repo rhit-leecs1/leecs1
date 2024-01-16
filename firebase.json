@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "leecs1-personalportfolio",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
